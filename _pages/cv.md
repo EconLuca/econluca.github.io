@@ -11,72 +11,87 @@ redirect_from:
 
 Education
 ======
-* 💯 B.Sc. in **Mathematics and Management**, Ulm University 🇩🇪 (2017 - 2021) <br /> 
-* 🧠 B.Sc. in **Psychology**, Ulm University 🇩🇪 (2017 - 2022) <br /> 
 * ↗️ M.Sc. in **Economics**, Eberhard Karls University of Tübingen 🇩🇪 (2021 - 2023) <br />
 * 🏦 dott.mag. in **Economics and Finance**, Università degli studi di Pavia 🇮🇹 (2022 - 2023) <br /> 
+* 🧠 B.Sc. in **Psychology**, Ulm University 🇩🇪 (2017 - 2022) <br /> 
+* 💯 B.Sc. in **Mathematics and Management**, Ulm University 🇩🇪 (2017 - 2021) <br /> 
+
 
 Academic Work Experience
 ======
 * 06/2022 - 02/2023: **Student Research Assistant**
-  * Chair of Economic Theory, Eberhard Karls University of Tübingen
+  * Chair of Economic Theory, Eberhard Karls University of Tübingen 🇩🇪
   * Duties included: Literature Review, Revising Lecture Notes
   * Head of Chair: Professor Dr. Manfred Stadler
 
 * 11/2020 – 03/2021: **Student Teaching Assistant** 
-  * Academic Affairs Committee Mathematics, Ulm University
+  * Academic Affairs Committee Mathematics, Ulm University 🇩🇪
   * Duties included: Correcting Exercise Sheets and Exams in **Measure Theory**
   * Supervisor: Professor Dr. Emil Wiedemann, Dr. Dennis Gallenmüller
 
 * 04/2019 – 07/2019: **Student Teaching Assistant** 
-  * Academic Affairs Committee Mathematics, Ulm University
+  * Academic Affairs Committee Mathematics, Ulm University 🇩🇪
   * Duties included: Tutoring and Correcting Exams in **Mathematical Foundations of Economics II <br /> (Linear Algebra and Integration Theory)**
   * Supervisor: Dr. Gerhard Baur, Dr. Dennis Gallenmüller
 
 * 10/2018 – 02/2019: **Student Teaching Assistant** 
-  * Academic Affairs Committee Mathematics, Ulm University
+  * Academic Affairs Committee Mathematics, Ulm University 🇩🇪
   * Duties included: Correcting Exercise Sheets and Exams in **Mathematical Foundations of Economics I (Calculus)**
   * Supervisor: Professor Dr. Rico Zacher, Dr. Frederic Weber
 
 Other Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 01/2020 - present: **Working Student**
+  * LeverageData GmbH, Neu-Ulm 🇩🇪
+  * Duties included: **Consulting & Education in Data Science**
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 04/2021 - 09/2021: **Intern**
+  * SparkassenVersicherung Lebensversicherung AG, Mannheim 🇩🇪
+  * Duties included: **Actuarial Accounting**
+
+* 09/2018: **Working Student**
+  * Robert Bosch Power Tools GmbH, Leinfelden-Echterdingen 🇩🇪
+  * Duties included: **Support**
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * 🇩🇪 (native)
+  * 🇬🇧🇺🇸 (C1)
+  * 🇮🇹 (A1)
+* Computer Skills
+  * R (advanced)
+  * Java (good)
+  * MATLAB (good)
+  * SPSS (good)
+  * STATA (good)
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2017 – Present: **e-fellows.net-Scholar**
+  * e-fellows.net GmbH & Co. KG 🇩🇪
+  * **Case Score: best 3% of all Students**
+* 2023: **Case Certificate**
+  * candidate select GmbH 🇩🇪
+  * **Case Score: best 3% of all Students**
+* 2022 - 2023: **Erasmus+-Scholar**
+  * Eberhard Karls University of Tübingen 🇩🇪
+* 2023: **School Award**
+  * Südwestmetall e.V. 🇩🇪
+  * **Best Abitur in Economics**
   
-Talks
+Memberships
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* 11 / 2017 – Present: **priamos consulting group e.V.**, Ulm🇩🇪
+* 11 / 2017 – Present: **JCNetwork e.V.**, Karlsruhe🇩🇪
+* 11 / 2017 – Present: **Börsenforum Ulm e.V.**, Ulm🇩🇪
+* 11 / 2017 – Present: **BVH e.V.**, Mannheim🇩🇪
+
+
+Personal Interests
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Sports
+  * ⚽️
+  * 🏊🏻
+* ✈️
+* 👨🏼‍🍳
