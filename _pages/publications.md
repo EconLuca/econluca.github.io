@@ -28,7 +28,7 @@ I worked on several topics during my studies and wrote some theses. You find the
 # Bachelor level #
 
 ### Economics ###
-* Bachelor thesis: **Effects of Expectations and Changes in Strategy in Professional Football Using the Example of the Bundesliga - a Behavioral Economic Analysis**, Ulm University (2021, in German) [link](https://doi.org/10.1016/j.joep.2018.07.006) <a href="econluca.github.io/files/Bachelorarbeit_Cermak_neuste Fassung.pdf" target="_blank">PDF.</a>
+* Bachelor thesis: **Effects of Expectations and Changes in Strategy in Professional Football Using the Example of the Bundesliga - a Behavioral Economic Analysis**, Ulm University (2021, in German) <a href="https://github.com/EconLuca/econluca.github.io/blob/0fd00f12e99d032f483d814cdfee7ac7969e56d1/files/Bachelorarbeit_Cermak_neuste%20Fassung.pdf" target="_blank">PDF.</a>
 * Seminar thesis: **Pay what you want: Reciprocity as a Business Model?**, Ulm University (2020, in German)
 
 
