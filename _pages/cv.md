@@ -14,7 +14,7 @@ Education
 * 💯 B.Sc. in Mathematics and Management, Ulm University 🇩🇪 (2017-2021) <br /> 
 * 🧠 B.Sc. in Psychology, Ulm University 🇩🇪 (2017-2022) <br /> 
 * ↗️ M.Sc. in Economics, Eberhard Karls University of Tübingen 🇩🇪 (2021-2023) <br />
-* 🏦 dott. mag. in Economics and Finance , Università degli studi di Pavia 🇮🇹 (2022-2023) <br /> 
+* 🏦 dott. mag. in Economics and Finance , Università degli studi di Pavia 🇮🇹 (2022-2023) <br /> 
 
 Work experience
 ======
