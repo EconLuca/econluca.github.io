@@ -23,19 +23,19 @@ author_profile: true
 I worked on several topics during my studies and wrote some theses. You find them here:
 
 # Master level #
-* Cermak, L. D. (2023). Managerial Risk-taking in the German Bundesliga [Master thesis]. Università degli studi di Pavia. (forthcoming).
+* Master thesis: Managerial Risk-taking in the German Bundesliga, Università degli studi di Pavia (2023, forthcoming)
 
 # Bachelor level #
 
 ### Economics ###
-* Cermak, L. D. (2021). Auswirkungen von Erwartungen und Strategiewechseln im Profifußball am Beispiel der Fußball-Bundesliga – eine verhaltensökonomische Analyse [Bachelorarbeit]. Universität Ulm. (in German)
-* Cermak, L. D. (2020). Pay what you want: Reziprozität als Geschäftsmodell? [Seminararbeit]. Universität Ulm. (in German)
+* Bachelor thesis: Effects of Expectations and Changes in Strategy in Professional Football Using the Example of the Bundesliga - a Behavioral Economic Analysis, Ulm University (2021, in German)
+* Seminar thesis: Pay what you want: Reciprocity as a Business Model?, Ulm University (2020, in German)
 
 
 ### Psychology ###
-* Cermak, L. D. (2022). Machine Learning in der psychologischen Diagnostik – Stand der aktuellen Forschung [Seminararbeit]. Universität Ulm. (in German)
-* Cermak, L. D. (2021). Home-Office und Boundary Crossing [Seminararbeit]. Universität Ulm. (in German)
-* Cermak, L. D. (2020). Maßnahmen zur Motivationsförderung bei Studienanfängern am Beispiel des Studienbereichs Mathematik an der Universität Ulm [Seminararbeit]. Universität Ulm. (in German)
-* Cermak, L. D. (2020). Systematische Übersicht über stressreduzierende Effekte von Waldbaden bei jungen Erwachsenen [Seminararbeit]. Universität Ulm. (in German)
-* Cermak, L. D. (2020). Einfluss auditiv-kognitiver Informationsverarbeitung auf die mentale Belastung des Fahrers und auf die Fahrleistung [Seminararbeit]. Universität Ulm. (in German) 
-* Cermak, L. D. (2020). Über die Wichtigkeit der Psychotherapie in der Onkologie [Seminararbeit]. Universität Ulm. (in German)
+* Seminar thesis: Machine Learning in Psychological Diagnostics - State of the Art, Ulm University (2022, in German)
+* Seminar thesis: Home-Office and Boundary Crossing, Ulm University (2021, in German)
+* Seminar thesis: Measures to Encourage Motivation among first-year Students using the Example of Mathematics at the Ulm University, Ulm University (2020, in German)
+* Seminar thesis: Systematic Review of Stress-reducing Effects of Forest Bathing in Young Adults, Ulm University (2020, in German)
+* Seminar thesis: Influence of auditory-cognitive Information Processing on the Mental Load of the Driver and on the Driving Performance, Ulm University (2020, in German) 
+* Seminar thesis: On the Importance of Psychotherapy in Oncology, Ulm University (2020, in German)
