@@ -76,7 +76,7 @@ Awards
   * **Case Score: best 3% of all Students**
 * 2022 - 2023: **Erasmus+-Scholar**
   * Eberhard Karls University of Tübingen 🇩🇪
-* 2023: **School Award**
+* 2017: **School Award**
   * Südwestmetall e.V. 🇩🇪
   * **Best Abitur in Economics**
   
