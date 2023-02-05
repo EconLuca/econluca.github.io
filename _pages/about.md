@@ -12,6 +12,8 @@ Welcome to my personal website, nice to see you on here! 😇
 
 My name is **Luca David** and I am a graduate student 👨🏼‍🎓 in Economics at the University of Tübingen 🇩🇪 and the Università degli studi di Pavia 🇮🇹.
 
-On this blog-like website you can find out more about myself, especially about my work, interests and a bit of my normal life. 
+On this blog-like website you can find out more about myself, especially about my work, my academic interests and a bit of my normal life. 
 
 If you have any questions, do not hesitate to contact me. 📧
+
+Cheers, **Luca**
