@@ -17,7 +17,7 @@ Education
 * 💯 B.Sc. in **Mathematics and Management**, Ulm University 🇩🇪 (2017 - 2021) <br /> 
 
 
-# Academic Interests #
+### Academic Interests ###
 * Experimental and Behavioral Economics 
 * Microeconometrics 
 * Sport Economics 
