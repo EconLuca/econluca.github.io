@@ -1,37 +1,64 @@
 ---
 layout: archive
-title: "Sitemap"
-permalink: /sitemap/
+title: "Impressum"
+permalink: /impressum/
 author_profile: true
 ---
 
-{% include base_path %}
+### Luca David Cermak              <br />
+Mündelstraße 29                   <br />
+89171 Illerkirchberg              <br />
+Baden-Württemberg                 <br />
+Germany                           <br />
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+📱 +49 162 9136706                <br />
+📧 luca.cermak@uni-ulm.de 
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+<h1>Website Terms and Conditions of Use</h1>
 
-{% capture written_label %}'None'{% endcapture %}
+<h2>1. Terms</h2>
 
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+<p>By accessing this Website, accessible from https://econluca.github.io, you are agreeing to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law.</p>
+
+<h2>2. Use License</h2>
+
+<p>Permission is granted to temporarily download one copy of the materials on Luca Cermak's Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:</p>
+
+<ul>
+    <li>modify or copy the materials;</li>
+    <li>use the materials for any commercial purpose or for any public display;</li>
+    <li>attempt to reverse engineer any software contained on Luca Cermak's Website;</li>
+    <li>remove any copyright or other proprietary notations from the materials; or</li>
+    <li>transferring the materials to another person or "mirror" the materials on any other server.</li>
+</ul>
+
+<p>This will let Luca Cermak to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format. These Terms of Service has been created with the help of the <a href="https://www.termsofservicegenerator.net">Terms Of Service Generator</a>.</p>
+
+<h2>3. Disclaimer</h2>
+
+<p>All the materials on Luca Cermak’s Website are provided "as is". Luca Cermak makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, Luca Cermak does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website.</p>
+
+<h2>4. Limitations</h2>
+
+<p>Luca Cermak or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials on Luca Cermak’s Website, even if Luca Cermak or an authorize representative of this Website has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.</p>
+
+<h2>5. Revisions and Errata</h2>
+
+<p>The materials appearing on Luca Cermak’s Website may include technical, typographical, or photographic errors. Luca Cermak will not promise that any of the materials in this Website are accurate, complete, or current. Luca Cermak may change the materials contained on its Website at any time without notice. Luca Cermak does not make any commitment to update the materials.</p>
+
+<h2>6. Links</h2>
+
+<p>Luca Cermak has not reviewed all of the sites linked to its Website and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by Luca Cermak of the site. The use of any linked website is at the user’s own risk.</p>
+
+<h2>7. Site Terms of Use Modifications</h2>
+
+<p>Luca Cermak may revise these Terms of Use for its Website at any time without prior notice. By using this Website, you are agreeing to be bound by the current version of these Terms and Conditions of Use.</p>
+
+<h2>8. Your Privacy</h2>
+
+<p>Please read our Privacy Policy.</p>
+
+<h2>9. Governing Law</h2>
+
+<p>Any claim related to Luca Cermak's Website shall be governed by the laws of de without regards to its conflict of law provisions.</p>
