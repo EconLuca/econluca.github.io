@@ -6,4 +6,4 @@ tags:
   - start
 ---
 
-This is my first post. Thank you for exploring my world. There is much more to come!
+This is my first post. Thank you for exploring my world. There is much more to come, stay tuned!😇
