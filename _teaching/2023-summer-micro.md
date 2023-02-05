@@ -1,5 +1,5 @@
 ---
-title: "Seminar in Applied Microeconomics"
+title: "Seminar on Applied Microeconomics"
 collection: teaching
 type: "Undergraduate and Graduate Seminar"
 permalink: /teaching/2023-summer
@@ -8,13 +8,4 @@ date: 2015-01-01
 location: "Ulm 🇩🇪"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This is the Seminar on Applied Microeconomics (for Bachelor) and Special Issues in Applied Microeconomics (for Master) in the Summer Term 2023.
