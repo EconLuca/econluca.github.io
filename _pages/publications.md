@@ -18,7 +18,7 @@ author_profile: true
 {% endfor %}
 -->
 
-### Currently I do not have any publications ###
+### Currently I do not have any publications. ###
 
 I worked on several topics during my studies and wrote some theses. You find them here:
 
