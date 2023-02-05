@@ -64,6 +64,7 @@ Skills
 * Languages
   * 🇩🇪 (native)
   * 🇬🇧🇺🇸 (C1)
+  * Latin
   * 🇮🇹 (A1)
 * Computer Skills
   * R (advanced)
