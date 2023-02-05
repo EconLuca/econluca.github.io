@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "Ulm 🇩🇪"
 ---
 
-This is the lecture on Economic Policy (for Bachelor) in the Summer Term 2023.
+This is the lecture on Economic Policy (for Bachelor) in the Summer Term 2023 (forthcoming).
