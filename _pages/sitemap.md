@@ -5,11 +5,9 @@ permalink: /impressum/
 author_profile: true
 ---
 
-### Luca David Cermak              <br />
-Mündelstraße 29                   <br />
-89171 Illerkirchberg              <br />
-Baden-Württemberg                 <br />
-Germany                           <br />
+<address>
+Luca Cermak <br /> Mündelstraße 29 <br /> 89171 Illerkirchberg <br /> Baden-Württemberg <br /> Germany <br />
+</address>
 
 📱 +49 162 9136706                <br />
 📧 luca.cermak@uni-ulm.de 
