@@ -18,14 +18,14 @@ author_profile: true
 {% endfor %}
 -->
 
-## Currently I do not have any publications ##
+### Currently I do not have any publications ###
 
 I worked on several topics during my studies and wrote some theses. You find them here:
 
-# Master level#
+# Master level #
 * Cermak, L. D. (2023). Managerial Risk-taking in the German Bundesliga [Master thesis]. Università degli studi di Pavia. (forthcoming).
 
-# Bachelor level#
+# Bachelor level #
 
 ### Economics ###
 * Cermak, L. D. (2021). Auswirkungen von Erwartungen und Strategiewechseln im Profifußball am Beispiel der Fußball-Bundesliga – eine verhaltensökonomische Analyse [Bachelorarbeit]. Universität Ulm. (in German)
