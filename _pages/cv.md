@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Academic Interests
+===
+* Experimental and Behavioral Economics 
+* Microeconometrics 
+* Sport Economics 
+
 Education
 ======
 * ↗️ M.Sc. in **Economics**, Eberhard Karls University of Tübingen 🇩🇪 (2021 - 2023) <br />
