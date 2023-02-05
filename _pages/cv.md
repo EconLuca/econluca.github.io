@@ -17,6 +17,12 @@ Education
 * 💯 B.Sc. in **Mathematics and Management**, Ulm University 🇩🇪 (2017 - 2021) <br /> 
 
 
+# Academic Interests
+* Experimental and Behavioral Economics 
+* Microeconometrics 
+* Sport Economics 
+
+
 Academic Work Experience
 ======
 * 06/2022 - 02/2023: **Student Research Assistant**
@@ -86,12 +92,6 @@ Memberships
 * 11 / 2017 – Present: **JCNetwork e.V.**, Karlsruhe🇩🇪
 * 11 / 2017 – Present: **Börsenforum Ulm e.V.**, Ulm🇩🇪
 * 11 / 2017 – Present: **BVH e.V.**, Mannheim🇩🇪
-
-Academic Interests
-===
-* Experimental and Behavioral Economics 
-* Microeconometrics 
-* Sport Economics 
 
 Personal Interests
 ======
