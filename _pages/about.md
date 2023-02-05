@@ -16,4 +16,6 @@ On this blog-like website you can find out more about myself, especially about m
 
 If you have any questions, do not hesitate to contact me. 📧
 
+> "Lernen ist Erfahrung. Alles andere ist einfach nur Information." - Albert Einstein
+
 Cheers, **Luca**
