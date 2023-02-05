@@ -1,6 +1,6 @@
 ---
 title: "Master thesis"
-excerpt: "Writing my Master thesis <br/><img src='/images/icons8-fußball-100.png'>"
+excerpt: "Writing my Master thesis <br/><img src='/images/icons8-fußball-ball-64.png'>"
 collection: portfolio
 ---
 
