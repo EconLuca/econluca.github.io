@@ -16,12 +16,8 @@ redirect_from:
 
 ## 📫 How to reach me: ## 
 
-Luca Cermak <br />
-Mündelstraße 29 <br />
-89171 Illerkirchberg <br />
+<address>
+Luca Cermak <br /> Mündelstraße 29 <br /> 89171 Illerkirchberg <br />
+</address>
 <br />
 📧 luca.cermak@uni-ulm.de
-
-
-
-
