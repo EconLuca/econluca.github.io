@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "Ulm 🇩🇪"
 ---
 
-This is the Seminar on Applied Microeconomics (for Bachelor) and Special Issues in Applied Microeconomics (for Master) in the Summer Term 2023.
+This is the Seminar on Applied Microeconomics (for Bachelor) and Special Issues in Applied Microeconomics (for Master) in the Summer Term 2023 (forthcoming).
