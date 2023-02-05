@@ -7,8 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-# Contact
-
 ## 💬 Ask me about ## 
 * My Academic Development
 * My Research
