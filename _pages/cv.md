@@ -27,28 +27,32 @@ Academic Work Experience
 ======
 * 06/2022 - 02/2023: **Student Research Assistant**
   * Chair of Economic Theory, Eberhard Karls University of Tübingen 🇩🇪
-  * Duties included: Literature Review, Revising Lecture Notes
+  * Duties included: Literature Review, Revising Lecture Notes <br /> 
+
 <!---
   * Head of Chair: Professor Dr. Manfred Stadler 
 -->
 
 * 11/2020 – 03/2021: **Student Teaching Assistant** 
   * Academic Affairs Committee Mathematics, Ulm University 🇩🇪
-  * Duties included: Correcting Exercise Sheets and Exams in **Measure Theory**
+  * Duties included: Correcting Exercise Sheets and Exams in **Measure Theory** <br /> 
+
 <!---
   * Supervisor: Professor Dr. Emil Wiedemann, Dr. Dennis Gallenmüller 
 -->
 
 * 04/2019 – 07/2019: **Student Teaching Assistant** 
   * Academic Affairs Committee Mathematics, Ulm University 🇩🇪
-  * Duties included: Tutoring and Correcting Exams in **Mathematical Foundations of Economics II <br /> (Linear Algebra and Integration Theory)**
+  * Duties included: Tutoring and Correcting Exams in **Mathematical Foundations of Economics II <br /> (Linear Algebra and Integration Theory)** <br /> 
+
 <!---
   * Supervisor: Dr. Gerhard Baur, Dr. Dennis Gallenmüller 
 -->  
 
 * 10/2018 – 02/2019: **Student Teaching Assistant** 
   * Academic Affairs Committee Mathematics, Ulm University 🇩🇪
-  * Duties included: Correcting Exercise Sheets and Exams in **Mathematical Foundations of Economics I (Calculus)**
+  * Duties included: Correcting Exercise Sheets and Exams in **Mathematical Foundations of Economics I (Calculus)** <br /> 
+
 <!---
   * Supervisor: Professor Dr. Rico Zacher, Dr. Frederic Weber
 -->    
