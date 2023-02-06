@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <address>
-Luca Cermak <br /> Mündelstraße 29 <br /> 89171 Illerkirchberg <br /> Baden-Württemberg <br /> Germany <br />
+Luca David Cermak, B.Sc. B.Sc. <br /> Mündelstraße 29 <br /> 89171 Illerkirchberg <br /> Baden-Württemberg <br /> Germany <br />
 </address>
 
 📱 +49 162 9136706                <br />
