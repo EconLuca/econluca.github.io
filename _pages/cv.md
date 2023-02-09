@@ -25,6 +25,21 @@ Education
 
 Academic Work Experience
 ======
+<!---
+* 02/2022 - present: **Research Assistant**
+  * Institute for Economics, Ulm University🇩🇪
+  * Supervisor: Professor Dr. Georg Gebhardt 
+-->
+
+* 02/2022 - present: **Student Teaching and Research Assistant**
+  * Institute for Economics, Ulm University🇩🇪
+  * Duties included: Tutoring and Correcting Exams in **Economic Policy**,<br />
+  Supervising the Seminar **Applied Microeconomics** <br /> 
+
+<!---
+  * Head of Institute: Professor Dr. Georg Gebhardt 
+-->
+
 * 06/2022 - 02/2023: **Student Research Assistant**
   * Chair of Economic Theory, Eberhard Karls University of Tübingen 🇩🇪
   * Duties included: Literature Review, Revising Lecture Notes <br /> 
