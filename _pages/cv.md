@@ -34,7 +34,7 @@ Academic Work Experience
 * 02/2022 - present: **Student Teaching and Research Assistant**
   * Institute for Economics, Ulm University🇩🇪
   * Duties included: Tutoring and Correcting Exams in **Economic Policy**,<br />
-  Supervising the Seminar **Applied Microeconomics** <br /> 
+  Supervising the **Seminar on Applied Microeconomics** <br /> 
 
 <!---
   * Head of Institute: Professor Dr. Georg Gebhardt 
