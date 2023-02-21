@@ -26,12 +26,12 @@ Education
 Academic Work Experience
 ======
 <!---
-* 02/2022 - present: **Research Assistant**
+* 04/2022 - present: **Research Assistant**
   * Institute for Economics, Ulm University🇩🇪
   * Supervisor: Professor Dr. Georg Gebhardt 
 -->
 
-* 02/2022 - present: **Student Teaching and Research Assistant**
+* 04/2023 - present: **Student Teaching and Research Assistant**
   * Institute for Economics, Ulm University🇩🇪
   * Duties included: Tutoring and Correcting Exams in **Economic Policy**,<br />
   Supervising the **Seminar on Applied Microeconomics** <br /> 
