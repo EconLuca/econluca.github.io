@@ -6,18 +6,12 @@ author_profile: true
 ---
 
 <address>
-Luca David Cermak, B.Sc. B.Sc. <br /> Mündelstraße 29 <br /> 89171 Illerkirchberg <br /> Baden-Württemberg <br /> Germany <br />
+Luca David Cermak, B.Sc. B.Sc. <br /> Institute for Economics, Ulm University <br /> Office 1.28 <br /> <br /> Helmholtzstraße 18 <br /> 89081 Ulm 
+<br /> Baden-Württemberg <br /> Germany <br /> 
 </address>
 
-<!---
-Luca David Cermak, B.Sc. B.Sc. <br /> Institute for Economics, Ulm University <br /> Office 1.28 <br /> <br /> Helmholtzstraße 18 <br /> 89081 Ulm <br /> Baden-Württemberg <br /> Germany <br /> 
--->
+📱 +49 731 50-23738               <br />
 
-📱 +49 162 9136706                <br />
-
-<!---
-📱 +49 731 50-23552
--->
 
 📧 luca.cermak@uni-ulm.de 
 
