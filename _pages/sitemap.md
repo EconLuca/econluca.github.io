@@ -7,7 +7,7 @@ author_profile: true
 
 <address>
 Luca David Cermak, B.Sc. B.Sc. <br /> 
-**Ulm University** <br /> 
+Ulm University <br /> 
 Institute for Economics, Office 1.28 <br /> <br /> 
 Helmholtzstraße 18 <br /> 
 89081 Ulm <br /> 
