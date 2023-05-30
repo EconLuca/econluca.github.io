@@ -83,11 +83,11 @@ author:
   name             : "Luca"
   avatar           : "Bild.png"
   bio              : "Economics · Mathematics · Psychology"
-  location         : "Ulm 🇩🇪"
+  location         : 
   employer         : "Ulm University"
   pubmed           : 
   googlescholar    : 
-  email            : "https://www.uni-ulm.de/mawi/mawi-wiwi/institut/mitarbeiter/luca-cermak/"
+  email            : "luca.cermak@uni-ulm.de"
   researchgate     :  "https://www.researchgate.net/profile/Luca_Cermak"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  URL              : "https://www.uni-ulm.de/mawi/mawi-wiwi/institut/mitarbeiter/luca-cermak/"
 
 
 # Reading Files
