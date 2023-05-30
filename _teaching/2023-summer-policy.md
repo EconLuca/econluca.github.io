@@ -2,7 +2,7 @@
 title: "Economic Policy"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-summer
+permalink: /teaching/2023-summer-policy
 venue: "Ulm University, Institute of Economics"
 date: 2023-01-01
 location: "Ulm 🇩🇪"
