@@ -10,4 +10,4 @@ location: "Ulm 🇩🇪"
 
 This is the lecture on Economic Policy (for Bachelor) in the Summer Term 2023.
 
-More informations: https://www.uni-ulm.de/mawi/mawi-wiwi/forschung-und-lehre/vorlesungen/wirtschaftspolitik-b/
+More information: https://www.uni-ulm.de/mawi/mawi-wiwi/forschung-und-lehre/vorlesungen/wirtschaftspolitik-b/
