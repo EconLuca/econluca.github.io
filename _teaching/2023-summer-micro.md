@@ -2,7 +2,7 @@
 title: "Seminar on Applied Microeconomics"
 collection: teaching
 type: "Undergraduate and Graduate Seminar"
-permalink: /teaching/2023-summer
+permalink: /teaching/2023-summer-micro
 venue: "Ulm University, Institute of Economics"
 date: 2023-01-01
 location: "Ulm 🇩🇪"
