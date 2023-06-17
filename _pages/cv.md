@@ -108,6 +108,9 @@ Awards
 * 2023: **Case Certificate**
   * candidate select GmbH 🇩🇪
   * **Case Score: best 3% of all Students**
+* 2023: **Santander Scholarship | Erasmus+**
+  * Banco Santander, S.A. 🇪🇸
+  * Eberhard Karls University of Tübingen 🇩🇪
 * 2022 - 2023: **Erasmus+-Scholar**
   * Eberhard Karls University of Tübingen 🇩🇪
 * 2017: **School Award**
