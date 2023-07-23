@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* ↗️ M.Sc. in **Economics**, Eberhard Karls University of Tübingen 🇩🇪 (2021 - 2023) <br />
-* 🏦 dott.mag. in **Economics and Finance**, Università degli studi di Pavia 🇮🇹 (2022 - 2023) <br /> 
-* 🧠 B.Sc. in **Psychology**, Ulm University 🇩🇪 (2017 - 2022) <br /> 
-* 💯 B.Sc. in **Mathematics and Management**, Ulm University 🇩🇪 (2017 - 2021) <br /> 
+* ↗️ Ph.D. in **Applied Microeconomics**, Ulm University 🇩🇪 (09/2023 - present) <br />
+* ↗️ M.Sc. in **Economics**, Eberhard Karls University of Tübingen 🇩🇪 (10/2021 - 07/2023) <br />
+* 🏦 dott.mag. in **Economics and Finance**, Università degli studi di Pavia 🇮🇹 (09/2022 - 07/2023) <br /> 
+* 🧠 B.Sc. in **Psychology**, Ulm University 🇩🇪 (10/2017 - 05/2022) <br /> 
+* 💯 B.Sc. in **Mathematics and Management**, Ulm University 🇩🇪 (10/2017 - 09/2021) <br /> 
 
 
 ### 💡 Academic Interests ###
@@ -25,13 +26,14 @@ Education
 
 Academic Work Experience
 ======
-<!---
-* 04/2022 - present: **Research Assistant**
+* 09/2023 - present: **Research Assistant**
   * Institute for Economics, Ulm University🇩🇪
+
+<!---
   * Supervisor: Professor Dr. Georg Gebhardt 
 -->
 
-* 04/2023 - present: **Student Teaching and Research Assistant**
+* 04/2023 - 08/2023: **Student Teaching and Research Assistant**
   * Institute for Economics, Ulm University🇩🇪
   * Duties included: Tutoring and Correcting Exams in **Economic Policy**,<br />
   Supervising the **Seminar on Applied Microeconomics** <br /> 
