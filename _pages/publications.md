@@ -23,7 +23,7 @@ author_profile: true
 I worked on several topics during my studies and wrote some theses. You find them here:
 
 # Master level #
-* Master thesis: **Managerial Risk-taking - Evidence from the German Bundesliga**, Università degli studi di Pavia (07/2023)
+* Master thesis: **Managerial Risk-taking - Evidence from the German Bundesliga**, Università degli studi di Pavia & Eberhard Karls Universität Tübingen (07/2023)
 
 # Bachelor level #
 
