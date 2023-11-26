@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * 👨🏼‍🎓 Ph.D. in **Applied Microeconomics**, Ulm University 🇩🇪 (09/2023 - present) <br />
-* ↗️ M.Sc. in **Economics**, Eberhard Karls University of Tübingen 🇩🇪 (10/2021 - 07/2023) <br />
-* 🏦 dott.mag. in **Economics and Finance**, Università degli studi di Pavia 🇮🇹 (09/2022 - 07/2023) <br /> 
+* ↗️ M.Sc. in **(European) Economics**, Eberhard Karls University of Tübingen 🇩🇪 (10/2021 - 07/2023) <br />
+* 🏦 Laurea Magistrale in **Economics and Finance**, Università degli studi di Pavia 🇮🇹 (09/2022 - 07/2023) <br /> 
 * 🧠 B.Sc. in **Psychology**, Ulm University 🇩🇪 (10/2017 - 05/2022) <br /> 
 * 💯 B.Sc. in **Mathematics and Management**, Ulm University 🇩🇪 (10/2017 - 09/2021) <br /> 
 
